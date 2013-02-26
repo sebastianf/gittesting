@@ -1,4 +1,4 @@
 gittesting
 ==========
 
-testing all king of git stuff
+testing all kind of git stuff
